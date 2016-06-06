@@ -86,7 +86,7 @@ pnl_plot(SPY)
 
 **Your Answers here:**
 <br>1. Line 8 of dataSet1.R: "mytickers = c("SPY", "AAPL")"
-<br>
+<br>2. Cumulative returns: 574.8; average daily returns: 0.148; standard deviation: 2.425
 <br>
 <br>
 
@@ -126,8 +126,8 @@ We can also transpose the matrix of returns to create a new "horizontal" matrix.
 2. Based on the help for the R function *apply* (`help(apply)`), can you create again the portfolio of S&P and Apple and plot the returns in a new figure below?
 
 **Your Answers here:**
-<br>
-<br>
+<br>1. nrow(transposedData) and ncol(transposedData)
+<br>2. 
 <br>
 <br>
 
