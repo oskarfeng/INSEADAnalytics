@@ -144,7 +144,7 @@ This is an important step and will get you to think about the overall process on
 2. *(Extra Exercise)*  Can you get the returns of a few companies and plot the returns of an equal weighted portfolio with those companies during some period you select? 
 
 **Your Answers here:**
-<br>
+<br>1. Change the following line: startDate = "2001-01-01" (though it already appears to be getting data from 2001-01-01
 <br>
 <br>
 <br>
