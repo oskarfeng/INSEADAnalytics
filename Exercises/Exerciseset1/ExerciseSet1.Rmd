@@ -127,7 +127,7 @@ We can also transpose the matrix of returns to create a new "horizontal" matrix.
 
 **Your Answers here:**
 <br>1. nrow(transposedData) and ncol(transposedData)
-<br>2. Simply refer to a different part of the array/matrix by changing the [,1] to [1,]. I.e.: round(100*sum(StockReturns[1,]),1)
+<br>2. Simply refer to a different part of the array/matrix by changing the [,1] to [1,]. i.e.: round(100*sum(StockReturns[1,]),1). Apply this to the previous lines finding daily returns. 
 <br>
 <br>
 
@@ -178,7 +178,7 @@ myData + StockReturns[1:40,])
 ```
 
 **Your Answers here:**
-<br>
+<br>1. Each time a row in myData is not found in the StockReturns matrix, a 1 is produced. The final result is a sum of all 1s produced in the entire twentydays.csv file.
 <br>
 <br>
 <br>
