@@ -127,7 +127,7 @@ We can also transpose the matrix of returns to create a new "horizontal" matrix.
 
 **Your Answers here:**
 <br>1. nrow(transposedData) and ncol(transposedData)
-<br>2. 
+<br>2. Simply refer to a different part of the array/matrix by changing the [,1] to [1,]. I.e.: round(100*sum(StockReturns[1,]),1)
 <br>
 <br>
 
